@@ -1,7 +1,5 @@
 # Spanning Tree Protocol (STP) in Cisco Packet Tracer.
-
 * Desired Logic in Plain Terms: 
-
 • Normal Path (Preferred): 
    PC(1-3) → S1 → S3 → PC4 
 • Failover Path (When S1–S3 is down): 
